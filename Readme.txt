@@ -1,2 +1,1 @@
-uname -> admin
-password -> password
+# Pizza Ordering System
